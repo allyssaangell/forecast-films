@@ -21,7 +21,8 @@
 
 ## See our Demo and what to expect:
 
-Click this [LINK](https://kstensing.github.io/fantastic-four/) for the landing page.
+Click this [LINK](https://kstensing.github.io/fantastic-four/) for the group landing page.
+Click this [LINK](https://allyssaangell.github.io/forecast-films/) for my individual landing page.
 
 The application should resemble the image below:
 
